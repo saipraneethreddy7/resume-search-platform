@@ -1,6 +1,6 @@
 # Candidate Resume Search Platform — Case Study Submission
 
-**🔗 Live app: [https://resume-search-platform-1.streamlit.app/](https://resume-search-platform-saipraneeth.streamlit.app/)**
+**🔗 Live app: (https://resume-search-platform-saipraneeth.streamlit.app/)**
 
 ## What's in this folder
 
