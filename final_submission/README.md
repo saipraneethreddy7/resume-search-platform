@@ -56,11 +56,6 @@ streamlit run streamlit_app.py
 - `docs/insights_tab.png` — Insights tab with the "Filtered candidates
   only" toggle selected, charts visible
 
-To generate them:
-```bash
-streamlit run streamlit_app.py
-# apply some filters, then screenshot the browser window into docs/
-```
 
 ## Key features
 
